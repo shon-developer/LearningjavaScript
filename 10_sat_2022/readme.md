@@ -2,18 +2,18 @@
 
 ## History
 
-JavaScript was invented by Brendan Eich in 1997 and became an ECMA standard.
-The First name of javascript is Mocha, then it became liveScript and later changed to JavaScript around the year 2000.
+JavaScript was invented by Brendan Eich in 1995 and became an ECMA standard.
+The First name of javascript is Mocha, then it became liveScript and later changed to JavaScript.
 
-The time the two main browsers were netscape and internet explorer
+That time the two main browsers were netscape and internet explorer
 
 ## What is ECMA Script?
 
-ECMAScript is a Javascript intended to ensure the interoperability of web pages across different browsers.In short it is a language specification.
+ECMAScript is a Javascript standard intended to ensure the interoperability of web pages across different browsers.In short it is a language specification.
 
 ## What is ES6
 
-ECMAScript 2015 was the second major revision to JavaScript. It is the finest standard set to write the code.
+ECMAScript 2015 was the second major revision to JavaScript. It is the finest standard set as of now.
 
 ## Fundamentals of JavaScript
 
