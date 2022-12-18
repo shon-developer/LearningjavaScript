@@ -45,6 +45,10 @@ console.log(arr1.concat(arr2));
 console.log(arr1.concat(arr2, arr3));
 */
 
+//let avengers = ["Hawkeye", "Thor Odinson", "Captain America"];
+//let weapons = ["Hurricane Hammer", "Shield", "Bow"];
+//console.log(avengers.concat(weapons));
+
 // ? Fill -> Homework
 /*
 let arr4 = [1, 2, 3, 4, 5, 6, 7, 8, 9,];
@@ -58,11 +62,16 @@ let num = [1, 2, 3, 4, 5, 6, 7, 8];
 console.log(num.includes(7, 7));
 */
 
-// ? Indexof
 /*
 let names = ["Shon", "Shine", "Sharone", "Bhavya", "Preksha"];
-console.log(names.indexOf("Shon"));
+console.log(names.includes("Shine"));
 */
+
+// ? Indexof
+
+// let names = ["Shon", "Shine", "Sharone", "Bhavya", "Preksha"];
+// console.log(names.indexOf("Shon"));
+// console.log(names.indexOf("Zareel"));
 
 // ? IsArray()
 /*
@@ -81,6 +90,11 @@ console.log(typeof var1);
 console.log(typeof arr1);
 */
 
+// let names = ["Shon", "Shine", "Sharone", "Bhavya", "Preksha"];
+// console.log(names.join());
+// console.log(names.join(" "));
+// console.log(names.join("-"));
+
 // ? key
 // ? for...of
 
@@ -90,24 +104,31 @@ let num = [1, 2, 3, "Shon", 4, 5, 6, 7, 8, "Shon", "Shon"];
 console.log(num.lastIndexOf("Shon"));
 */
 
+// let names = ["Shon", "Shine", "Sharone", "Bhavya", "Shon", "Preksha"];
+// console.log(names.lastIndexOf("Shon"));
+
 // ? Map
 /*
 let math = [1, 4, 9, 16, 25];
 console.log(math.map(Math.sqrt));
 */
 
+// let nums = [1, 2, 3, 4, 5];
+// console.log(nums.map((x) => x + 10));
+
 // ? Pop => pop takes away the last element at the last index value
-/*
+
 let names = ["Shon", "Shine", "Sharone", "Bhavya", "Preksha"];
 console.log(names.pop());
-console.log(names);
-*/
 
 // ? reverse
 /*
 let names = ["Shon", "Shine", "Sharone", "Bhavya", "Preksha"];
 console.log(names.reverse());
 */
+
+let numberNames = ["one", "two", "three", "four", "five"];
+console.log(numberNames.reverse());
 
 // ? shift => shift takes away the element at the first index value
 /*
